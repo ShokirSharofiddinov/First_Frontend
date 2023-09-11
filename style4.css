@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main{
+    width: 500px;
+    height: 70px;
+    background-color: rgb(237, 237, 237);
+    margin: auto;
+    margin-top: 300px;
+    
+}
+
+.box1{
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+p{
+    font-size:17px;
+    display: inline;
+    color: rgb(124, 1, 168);
+    padding-left: 15px;
+}
+
+.message_div{
+    position: relative;
+    bottom: 10px;
+    display: inline;
+    right: 2px;
+    font-size: 10px;
+    border-radius: 50%;
+    background-color: rgb(16, 179, 255);
+    color: white;
+    padding: 2px 4px;
+}
